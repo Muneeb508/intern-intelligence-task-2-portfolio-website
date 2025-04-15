@@ -1,0 +1,8 @@
+/* App-specific styles will be defined in index.css using Tailwind classes */
+#services p{
+    color: #000 !important;
+}
+
+#testimonials p,h4{
+    color: #000;
+}
